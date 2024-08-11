@@ -1,4 +1,4 @@
-# working progress
+# this project still in working progress
 
 # Multi-Label-Classification-of-Spotify-Music-Genres-Using-the-KNN-Method
 

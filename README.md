@@ -1,6 +1,6 @@
 # work in progress
 
-# Multi Label Classification of Spotify Music Genres Using KNN Method
+# Multi-Label Recommendation of Spotify Music Genres Using a Content-Based Filtering
 
 # Introduction
 The project focuses on developing a multi-label classification system to categorize Spotify music tracks into multiple genres using the K-Nearest Neighbors (KNN) method. In today’s vast music streaming ecosystem, accurately classifying tracks into genres helps improve user experience by providing better recommendations and playlist suggestions.

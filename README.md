@@ -1,5 +1,8 @@
 ![Listen to Renner Worship on Spotify](https://github.com/user-attachments/assets/314cc537-4dc3-458d-9c3e-45bd6a8f31ee)
 
+![Uploading aumento-spotify-premium-trucco-pagarlo-meno-2120x840.jpg…]()
+
+
 # work in progress
 
 # Multi-Label Recommendation of Spotify Music Genres Using Content-Based Filtering

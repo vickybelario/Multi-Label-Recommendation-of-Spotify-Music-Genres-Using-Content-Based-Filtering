@@ -1,3 +1,5 @@
+![Suno AI Can Change The Genre of Any Song With a Few Words](https://github.com/user-attachments/assets/3961283f-5221-45e1-9c91-3168c6aa9774)
+
 # work in progress
 
 # Multi-Label Recommendation of Spotify Music Genres Using Content-Based Filtering

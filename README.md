@@ -1,5 +1,3 @@
-![Listen to Renner Worship on Spotify](https://github.com/user-attachments/assets/314cc537-4dc3-458d-9c3e-45bd6a8f31ee)
-
 ![aumento-spotify-premium-trucco-pagarlo-meno-2120x840](https://github.com/user-attachments/assets/c115ae51-e275-4261-be13-5b8249cce137)
 
 
